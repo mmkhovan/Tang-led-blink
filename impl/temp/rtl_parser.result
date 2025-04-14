@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "/Users/mihailhovanskij/fpga_project/src/led.v",
+  "InstLine" : 1,
+  "InstName" : "top",
+  "ModuleFile" : "/Users/mihailhovanskij/fpga_project/src/led.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top"
+ }
+]
