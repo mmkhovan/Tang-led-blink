@@ -7,7 +7,7 @@ reg count_1s_flag;
 reg [23:0] count_1s = 'd0;
 
 always @(posedge clk ) begin
-    if( count_1s < 27000000/5 ) begin
+    if( count_1s < 27000000/2 ) begin
         count_1s <= count_1s + 'd1;
         count_1s_flag <= 'd0;
     end
